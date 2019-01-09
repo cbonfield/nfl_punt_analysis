@@ -1,1 +1,2 @@
 # NFL Punt Analysis
+This repository will be used to temporarily store all of the code/scripts I used during the course of my analysis for the NFL Punt Analytics competition (I make no promises about the coding clarity/quality). 
